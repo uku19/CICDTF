@@ -3,7 +3,7 @@ name: Automate TF with CLI
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
 
 jobs:
